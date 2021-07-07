@@ -1,4 +1,4 @@
-const User{
+const User = {
   FirstName:"John",
   LastName:"Bob"
  }
