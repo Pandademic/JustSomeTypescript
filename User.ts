@@ -2,4 +2,4 @@ const User = {
   FirstName:"John",
   LastName:"Bob"
  }
-console.log(User.LastName);
+console.log("The users Last name is "+User.LastName);
