@@ -1,0 +1,2 @@
+# JustSomeTypescript
+Some typescript
