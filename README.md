@@ -1,8 +1,5 @@
 # JustSomeTypescript
 
 <img src="https://img.shields.io/badge/Tests%3A-Passing-brightgreen?style=for-the-badge"/>
-___
-## Or not.
-## actually theres jade too
-or maybe its pug?
-### also SCSS
+
+This repo has Starlark,Koltin,pug,Scss,and of course typescript
