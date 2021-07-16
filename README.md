@@ -1,6 +1,5 @@
 # JustSomeTypescript
-
-__
+___
 <img src="https://img.shields.io/badge/Tests%3A-Passing-brightgreen?style=for-the-badge"/>
 ___
 ## Or not.
