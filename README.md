@@ -1,7 +1,7 @@
 # JustSomeTypescript
 
 ___
-tests: https://img.shields.io/badge/Tests%3A-Passing-brightgreen?style=for-the-badge&logo=appveyor
+tests:<img src="https://img.shields.io/badge/Tests%3A-Passing-brightgreen?style=for-the-badge"/>
 ___
 Or not.
 ## actually theres jade too
